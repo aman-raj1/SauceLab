@@ -1,0 +1,12 @@
+{
+    "CorrectUsername":"standard_user",
+    "LockerUsername":"locked_out_user",
+    "CorrectPassword":"secret_sauce",
+    "IncorrectPassword":"secret_sauce12",
+    "AddressInfo":{
+        "firstname":"Aman",
+        "lastname":"Raj",
+        "Zipcode":"800025"
+    }
+
+}
